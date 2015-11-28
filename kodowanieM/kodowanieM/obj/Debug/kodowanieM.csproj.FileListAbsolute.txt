@@ -1,0 +1,6 @@
+c:\users\laura\documents\visual studio 2013\Projects\kodowanieM\kodowanieM\bin\Debug\kodowanieM.exe.config
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\kodowanieM\kodowanieM\bin\Debug\kodowanieM.exe
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\kodowanieM\kodowanieM\bin\Debug\kodowanieM.pdb
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\kodowanieM\kodowanieM\obj\Debug\kodowanieM.csprojResolveAssemblyReference.cache
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\kodowanieM\kodowanieM\obj\Debug\kodowanieM.exe
+C:\Users\Laura\Documents\Visual Studio 2013\Projects\kodowanieM\kodowanieM\obj\Debug\kodowanieM.pdb
